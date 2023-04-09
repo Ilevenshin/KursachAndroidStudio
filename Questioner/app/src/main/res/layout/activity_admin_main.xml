@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".AdminMainActivity">
+
+    <ImageView
+        android:id="@+id/topic_more"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:background="#4500FFE1"
+        android:contentDescription="More Menu"
+        android:src="@drawable/more_dots"
+        />
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:layout_width="111dp"
+            android:layout_height="106dp"
+            android:src="@drawable/admin" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="ADMIN"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:layout_marginTop="20dp"
+            android:textSize="35sp"
+            android:textColor="@color/aqua"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/adminMainAddRemove"
+            android:padding="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/aqua"
+            android:text="Добавить/удалить тему"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/adminMainAddQuestions"
+            android:padding="20dp"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:layout_height="wrap_content"
+            android:background="@color/aqua"
+            android:text="Добавить вопросы"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/white"/>
+
+        <TextView
+            android:id="@+id/adminDemo"
+            android:padding="20dp"
+            android:fontFamily="sans-serif-condensed-medium"
+            android:layout_marginTop="20dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/aqua"
+            android:text="Create Demo Quiz"
+            android:textAlignment="center"
+            android:gravity="center"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:visibility="invisible"
+            android:enabled="false"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

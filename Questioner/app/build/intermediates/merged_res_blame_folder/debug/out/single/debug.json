@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "com.example.questioner.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.questioner.app-main-27:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_splash_icn.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\splash_icn.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_blur_white.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\blur_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_screen_background_gradient.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\screen_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_blur_blue.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\blur_blue.xml"
+    },
+    {
+        "merged": "com.example.questioner.app-merged_res-25:/drawable_icon.png.flat",
+        "source": "com.example.questioner.app-main-27:/drawable/icon.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_add_question.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_add_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_item_topic.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\item_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_firepng.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\firepng.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_mus.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\mus.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_question.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_resultat.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\resultat.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_topic.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_topic.xml"
+    },
+    {
+        "merged": "com.example.questioner.app-merged_res-25:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.questioner.app-main-27:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_admin_main.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_admin_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable-v24_admin_screen_background_gradient.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable-v24\\admin_screen_background_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_admin_topic.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_admin_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\menu_topic_screen_menu.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\menu\\topic_screen_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_result.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\result.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_more_dots.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\more_dots.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_l_logo.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\l_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_admin.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\admin.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_admin_person.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\admin_person.png"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\animator_flip.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\animator\\flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\layout_item_add_remove_topic.xml.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\layout\\item_add_remove_topic.xml"
+    },
+    {
+        "merged": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-merged_res-25:\\drawable_trash.png.flat",
+        "source": "C:\\Users\\islam\\.gradle\\daemon\\7.3.3\\com.example.questioner.app-main-27:\\drawable\\trash.png"
+    }
+]
